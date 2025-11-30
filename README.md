@@ -3,7 +3,7 @@
 `CLI`
 
 ```bash
-npm create vite@latest 07-flashcards -- --template react
+npm create vite@latest 10-react-quiz -- --template react
 npx create-vite 10-react-quiz --template react-swc
 npm install -D sass
 ```
