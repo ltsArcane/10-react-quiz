@@ -53,9 +53,9 @@ export default function App() {...};
 - Done.
 
 # Running Instructions
-First `npm i json-server -D`
-Then `npm run server`
-Then you may do the usual (`npx vite --port=4000`)
+- First `npm i json-server -D`
+- Then `npm run server`
+- Then run the usual (`npx vite --port=4000`)
 
 ## React + Vite
 
