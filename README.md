@@ -52,6 +52,11 @@ export default function App() {...};
 
 - Done.
 
+# Running Instructions
+First `npm i json-server -D`
+Then `npm run server`
+Then you may do the usual (`npx vite --port=4000`)
+
 ## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
